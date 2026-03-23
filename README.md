@@ -2,7 +2,7 @@
 
 > Prevent your voice from being captured by smart devices and AI recorders.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : 8MkMeACWDUqffNAoho3Sevd5A1Cjsj3Vno6LfnoQpump
 ---
 
 ## 🌐 Overview
